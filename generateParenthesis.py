@@ -1,5 +1,3 @@
-https://leetcode.com/problems/generate-parentheses/submissions/1330782552/
-
 class Solution(object):
     def generateParenthesis(self, n):
         """
