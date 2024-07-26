@@ -1,3 +1,5 @@
+#Day 1
+
 class Solution(object):
     def removeDuplicates(self, nums):
         if not nums:
