@@ -1,3 +1,5 @@
+#Day 2
+
 class Solution(object):
     def maximumProduct(self, nums):
         """
